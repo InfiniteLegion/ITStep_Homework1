@@ -1,0 +1,10 @@
+button{
+    color: white;
+    background-color: black;
+    border-color: gray;
+    width: 150px;
+    height: 100px;
+    border-radius: 15%;
+    font-family: 'ComicSans';
+    font-weight: bold;
+}
